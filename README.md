@@ -1,5 +1,5 @@
 # MINESWEEPER
-#### Video Demo:  <URL HERE>
+#### Video Demo: https://youtu.be/Pl8BE-2zvzM
 #### Description: 
 This is a C# implementation of Minesweeper which has been written using Visual Studio for Mac.
 
