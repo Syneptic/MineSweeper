@@ -1,0 +1,15 @@
+/Users/janishiestand/Desktop/IntelliJ Projects/Visual Studio/MineSweeper/MineSweeper/bin/Debug/net7.0/MineSweeper
+/Users/janishiestand/Desktop/IntelliJ Projects/Visual Studio/MineSweeper/MineSweeper/bin/Debug/net7.0/MineSweeper.deps.json
+/Users/janishiestand/Desktop/IntelliJ Projects/Visual Studio/MineSweeper/MineSweeper/bin/Debug/net7.0/MineSweeper.runtimeconfig.json
+/Users/janishiestand/Desktop/IntelliJ Projects/Visual Studio/MineSweeper/MineSweeper/bin/Debug/net7.0/MineSweeper.dll
+/Users/janishiestand/Desktop/IntelliJ Projects/Visual Studio/MineSweeper/MineSweeper/bin/Debug/net7.0/MineSweeper.pdb
+/Users/janishiestand/Desktop/IntelliJ Projects/Visual Studio/MineSweeper/MineSweeper/obj/Debug/net7.0/MineSweeper.csproj.AssemblyReference.cache
+/Users/janishiestand/Desktop/IntelliJ Projects/Visual Studio/MineSweeper/MineSweeper/obj/Debug/net7.0/MineSweeper.GeneratedMSBuildEditorConfig.editorconfig
+/Users/janishiestand/Desktop/IntelliJ Projects/Visual Studio/MineSweeper/MineSweeper/obj/Debug/net7.0/MineSweeper.AssemblyInfoInputs.cache
+/Users/janishiestand/Desktop/IntelliJ Projects/Visual Studio/MineSweeper/MineSweeper/obj/Debug/net7.0/MineSweeper.AssemblyInfo.cs
+/Users/janishiestand/Desktop/IntelliJ Projects/Visual Studio/MineSweeper/MineSweeper/obj/Debug/net7.0/MineSweeper.csproj.CoreCompileInputs.cache
+/Users/janishiestand/Desktop/IntelliJ Projects/Visual Studio/MineSweeper/MineSweeper/obj/Debug/net7.0/MineSweeper.dll
+/Users/janishiestand/Desktop/IntelliJ Projects/Visual Studio/MineSweeper/MineSweeper/obj/Debug/net7.0/refint/MineSweeper.dll
+/Users/janishiestand/Desktop/IntelliJ Projects/Visual Studio/MineSweeper/MineSweeper/obj/Debug/net7.0/MineSweeper.pdb
+/Users/janishiestand/Desktop/IntelliJ Projects/Visual Studio/MineSweeper/MineSweeper/obj/Debug/net7.0/MineSweeper.genruntimeconfig.cache
+/Users/janishiestand/Desktop/IntelliJ Projects/Visual Studio/MineSweeper/MineSweeper/obj/Debug/net7.0/ref/MineSweeper.dll
